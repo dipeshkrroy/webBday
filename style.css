@@ -1,5 +1,7 @@
 .bg-img{
-    height: 50vh;
+    height:120px;
+    width: 120px;
+    border-radius: 50%;
     background-image: url(./post.jpg);
     background-repeat: no-repeat;
     background-size: cover;
