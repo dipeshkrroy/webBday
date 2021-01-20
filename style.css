@@ -23,3 +23,10 @@
     justify-content: space-around;
     align-items: center;
 }
+.d-flex{
+    width: 100vw;
+    height: 250px;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+}
