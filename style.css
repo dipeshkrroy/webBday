@@ -30,3 +30,12 @@
     display: flex;
     justify-content: space-around;
 }
+@media only screen and (min-width: 600px) {
+ .video{
+    margin: 2% 20%;
+ }
+ .video video{
+     width: 80%;
+     height: 80%;
+ }
+}
